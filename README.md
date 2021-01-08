@@ -13,3 +13,4 @@ Ensemble model using base classifier which uses supervised machine learning algo
 # Ensemble model comparison
 Box plot Comparison
 
+![](https://github.com/gouravbarkle/Ensemble-model/blob/main/Image/boxplot.png)
