@@ -1,3 +1,9 @@
+# What is ensemble learning 
+Ensemble learning is the process by which multiple models, such as classifiers or experts, are strategically generated and combined to solve a particular computational intelligence problem. Ensemble learning is primarily used to improve the (classification, prediction, function approximation, etc.)
+
+# why use ensemble learning
+We explicitly use ensemble learning to seek better predictive performance, such as lower error on regression or high accuracy for classification. … there is a way to improve model accuracy that is easier and more powerful than judicious algorithm selection: one can gather models into ensembles.
+
 # Ensemble-model
 Ensemble model using base classifier which uses supervised machine learning algorithm which can accurately predict whether or not the patients in the dataset have diabetes
 
