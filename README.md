@@ -11,6 +11,6 @@ Ensemble model using base classifier which uses supervised machine learning algo
   the number of instances as 50. 
   
 # Ensemble model comparison
-Box plot Comparison
+Box plot Comparison among three ensemble models.
 
 ![](https://github.com/gouravbarkle/Ensemble-model/blob/main/Image/boxplot.png)
